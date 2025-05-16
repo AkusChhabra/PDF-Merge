@@ -3,7 +3,6 @@ __pycache__
 /build
 /dist
 PDFMerger.spec
-PDF_Merger_Setup.exe
 PDFMerger_setup_config.iss
 /test
 PDFMerger.exe
