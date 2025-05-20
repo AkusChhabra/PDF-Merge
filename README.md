@@ -1,5 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/python-v3.13-blue)
 
+###### Compatabile with both Windows 10 and Mac OSX Ventura 13.7.5
+
 # PDF Merger GUI
 
 This GUI program allows you to upload your pdf files and merge them in the desired order.
