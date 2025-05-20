@@ -10,6 +10,7 @@ Simply left-hold click a file and drag it up or down to change the order. Then c
 | V1.0.0                                                                                           |                               |
 | ------------------------------------------------------------------------------------------------ | ----------------------------- |
 | [PDF_Merger_Setup.exe](https://github.com/AkusChhabra/PDF-Merge/raw/master/PDF_Merger_Setup.exe) | Windows x64 Version Installer |
+| [PDFMerger.dmg](https://github.com/AkusChhabra/PDF-Merge/raw/master/PDFMerger.dmg)               | Mac OSX DMG |
 | [License.txt](https://github.com/AkusChhabra/PDF-Merge/raw/master/License.txt)                   | License Agreement             |
 
 ## How to Use
